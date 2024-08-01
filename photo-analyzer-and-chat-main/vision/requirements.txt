@@ -2,7 +2,4 @@ streamlit
 python-dotenv
 Pillow
 google-generativeai
-pip install tensorflow
-pip install numpy
-pip install matplotlib
-pip install Pillow
+
